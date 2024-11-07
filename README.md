@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Yaghoubi , I'm usually known as Shinigami110 👋
+# Hi there, I'm Ali Yaghoubi , Alos usually known as Shinigami110 👋
 
 ### About Me
 I'm a dedicated software engineering student, passionate about cybersecurity, artificial intelligence, and backend development. With a focus on ethical hacking and programming with Python, I aim to become a computer engineer specializing in AI.
