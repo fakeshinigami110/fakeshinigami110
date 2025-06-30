@@ -1,35 +1,37 @@
-# Hi there, I'm Ali Yaghoubi 
+# 👋 Hi there, I'm Ali Yaghoubi
 
-### About Me
-I'm a dedicated software engineering student, passionate about cybersecurity, artificial intelligence, and backend development. With a focus on ethical hacking and programming with Python, I aim to become a computer engineer specializing in AI.
+### 🧠 About Me
+I'm a software engineering student with a growing passion for Edge AI, IoT, and Machine Learning.  
+Previously focused on Telegram bot development and backend with Django, I'm now shifting toward AI at the edge — where intelligence meets hardware.  
+My long-term ambition is to become a computer engineer specializing in Edge AI and pursue a Master’s degree in Japan through the MEXT scholarship.
 
-- 🌱 I’m currently diving deep into Pyrogram, OpenCV, and developing unique Telegram bots ,recently I started diving into Django.
-- 🔍 I'm always exploring the latest in cybersecurity, especially in controlled lab environments, to enhance my knowledge and skills.
-- 🇯🇵 I aspire to pursue a master’s degree in Japan with the Monbukagakusho (MEXT) full scholarship.
+### 🔭 Current Focus
+- 📘 Studying Machine Learning fundamentals using structured courses and real projects  
+- 🧠 Learning how to deploy AI models on edge devices with a focus on C++ and Python  
+- 🛠️ Planning to gain hands-on experience in electronics and embedded systems soon  
+- 🚀 Long-term project: Building a real-time 3D communication system using image processing & edge computing
 
-### 🔭 Current Projects
-- **Instagram Admin AI bot**: A new project that I am working on is the creation of an admin bot that uses artificial intelligence for Instagram
-- **Telegram Bots**: Building bots with advanced features like subscription checking, remote problem-solving services, and anonymous messaging.
-- **OpenCV Exploration**: Studying image processing techniques for applications in AI and 3D rendering.
-
-### 💼 Skills & Tools
-- **Programming Languages**: Python (Pyrogram, OpenCV), C++, JavaScript
-- **Technologies**: Linux (Ubuntu), GitHub, Unity, Kivy 
-- **Cybersecurity**: MITM, RAT, DDoS (controlled lab environments)
-- **Backend Development**: API integrations, payment gateways ,Django
-
-### 🛠️ Areas of Expertise
-- **Cybersecurity**: Knowledgeable in various cybersecurity methods and ethical hacking practices.
-- **AI & Robotics**: Working on a project to create a robot capable of identifying phone models and performing simple tasks.
-- **Mobile Development**: Exploring Kivy framework to master mobile development.
+### 💻 Skills & Tools
+- Languages: Python, C++, (learning Rust), Bash  
+- AI & ML: scikit-learn, NumPy, pandas, Matplotlib  
+- Backend: Django (basic), PostgreSQL (proficient)  
+- Tools: Git, GitHub, Linux (Ubuntu), Docker  
+- IoT (upcoming): Planning to explore Python & Go for device communication and control
 
 ### 🎯 Goals
-- Short-term: Improve English proficiency and start practicing Japanese
-- Long-term: Become a computer engineer with a specialization in AI and secure a MEXT scholarship for studying in Japan.
+- ✅ Short-Term:  
+  - Master core Machine Learning concepts  
+  - Prototype a mini edge ML project (TinyML or image classification on edge)  
+- 🚀 Mid-Term:  
+  - Learn embedded systems and electronics  
+  - Start combining ML models with hardware (MCUs, sensors, etc.)  
+- 🗾 Long-Term:  
+  - 🇯🇵 Win the MEXT scholarship  
+  - Become an expert in Edge AI + IoT systems
 
-### Let's Connect!
-- [GitHub](https://github.com/fakeshinigami110)
-- [Telegram Account](https://t.me/shinigami_110)
-- [LinkedIn](https://www.linkedin.com/in/ali-yaghoubi-ab1684319/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+### 🌐 Let's Connect!
+- [GitHub](https://github.com/fakeshinigami110)  
+- [Telegram](https://t.me/shinigami_110)  
+- [LinkedIn](https://www.linkedin.com/in/ali-yaghoubi-ab1684319)
 
-Thanks for stopping by! 😊
+Thanks for visiting my profile! 😊
