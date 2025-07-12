@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ali Yaghoubi
+# Hi there, I'm Ali Yaghoubi
 
 ### 🧠 About Me
 I'm a software engineering student with a growing passion for Edge AI, IoT, and Machine Learning.  
