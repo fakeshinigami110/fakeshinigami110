@@ -15,7 +15,7 @@ My long-term ambition is to become a computer engineer specializing in Edge AI a
 - Languages: Python, C++, (learning Rust), Bash  
 - AI & ML: scikit-learn, NumPy, pandas, Matplotlib  
 - Backend: Django (basic), PostgreSQL (proficient)  
-- Tools: Git, GitHub, Linux (Ubuntu), Docker  
+- Tools: Git, GitHub, Linux (Arch linux), Docker  
 - IoT (upcoming): Planning to explore Python & Go for device communication and control
 
 ### 🎯 Goals
