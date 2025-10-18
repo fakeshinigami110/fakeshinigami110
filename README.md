@@ -31,7 +31,7 @@ My long-term ambition is to become a computer engineer specializing in Edge AI a
   - Become an expert in Edge AI + IoT systems
 
 ### 🌐 Let's Connect!
-- [Fllow my journey on my website](eei-journey.site) 
+- [Fallow my journey on my website](eei-journey.site) 
 - [GitHub](https://github.com/fakeshinigami110)  
 - [Telegram](https://t.me/shinigami_110)  
 - [LinkedIn](https://www.linkedin.com/in/ali-yaghoubi-ab1684319)
