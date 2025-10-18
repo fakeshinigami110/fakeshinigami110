@@ -12,10 +12,11 @@ My long-term ambition is to become a computer engineer specializing in Edge AI a
 - 🚀 Long-term project: Building a real-time 3D communication system using image processing & edge computing
 
 ### 💻 Skills & Tools
-- Languages: Python, C++, (learning Rust), Bash  
+- Languages: Python, C++, Go, Bash  
 - AI & ML: scikit-learn, NumPy, pandas, Matplotlib  
 - Backend: Django (basic), PostgreSQL (proficient)  
-- Tools: Git, GitHub, Linux (Arch linux), Docker  
+- Tools: Git, GitHub, Linux (Arch linux), Docker
+- embbeded : espidf , ardiuno   
 - IoT (upcoming): Planning to explore Python & Go for device communication and control
 
 ### 🎯 Goals
@@ -30,6 +31,7 @@ My long-term ambition is to become a computer engineer specializing in Edge AI a
   - Become an expert in Edge AI + IoT systems
 
 ### 🌐 Let's Connect!
+- [Fllow my journey on my website](eei-journey.site) 
 - [GitHub](https://github.com/fakeshinigami110)  
 - [Telegram](https://t.me/shinigami_110)  
 - [LinkedIn](https://www.linkedin.com/in/ali-yaghoubi-ab1684319)
