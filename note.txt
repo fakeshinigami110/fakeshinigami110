@@ -1,3 +1,40 @@
 https://drive.google.com/file/d/1vqMM8Ncvw6ta8OEVIlfL3aT92o-Wd74O/view?usp=drivesdk
 
 https://drive.google.com/drive/folders/1wR8cXYmzXY2Fye3WuXqFaf9H_uVZLtjY
+
+
+
+# ===== Spark Core Configuration =====
+SPARK_MASTER_HOST=spark-master
+SPARK_MASTER_PORT=7077
+SPARK_MASTER_WEBUI_PORT=8080
+
+# ===== Worker Configuration =====
+SPARK_WORKER_CORES=2
+SPARK_WORKER_MEMORY=2g
+SPARK_WORKER_PORT=8888
+SPARK_WORKER_WEBUI_PORT=8081
+
+# ===== History Server Configuration =====
+SPARK_HISTORY_OPTS="-Dspark.history.fs.logDirectory=/opt/spark/spark-events -Dspark.history.ui.port=18080"
+
+# ===== Application Configuration =====
+SPARK_APPLICATION_JAR_NAME=""
+SPARK_APPLICATION_MAIN_CLASS=""
+SPARK_APPLICATION_ARGS=""
+
+# ===== Network Configuration =====
+SPARK_LOCAL_IP=0.0.0.0
+SPARK_PUBLIC_DNS=localhost
+
+# ===== Logging Configuration =====
+SPARK_LOG_DIR=/opt/spark/logs
+SPARK_WORKER_DIR=/opt/spark/work
+
+# ===== Memory Configuration =====
+SPARK_DRIVER_MEMORY=1g
+SPARK_EXECUTOR_MEMORY=1g
+SPARK_EXECUTOR_CORES=1
+
+# ===== History Server =====
+SPARK_HISTORY_FS_LOGDIRECTORY=/opt/spark/spark-events
